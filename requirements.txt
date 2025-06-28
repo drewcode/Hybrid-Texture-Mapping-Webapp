@@ -1,0 +1,10 @@
+streamlit
+Pillow
+torch
+transformers
+diffusers
+numpy
+scikit-image
+opencv-python
+tqdm
+streamlit-drawable-canvas 
